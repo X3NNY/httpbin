@@ -1,8 +1,8 @@
 # HTTPBin
 
-[![Issues](https://img.shields.io/github/issues/X3NNY/requestbin)](https://img.shields.io/github/issues/X3NNY/requestbin)
-[![Stars](https://img.shields.io/github/stars/X3NNY/requestbin)](https://img.shields.io/github/stars/X3NNY/requestbin)
-![License](https://img.shields.io/github/license/X3NNY/requestbin)
+[![Issues](https://img.shields.io/github/issues/X3NNY/httpbin)](https://img.shields.io/github/issues/X3NNY/httpbin)
+[![Stars](https://img.shields.io/github/stars/X3NNY/httpbin)](https://img.shields.io/github/stars/X3NNY/httpbin)
+![License](https://img.shields.io/github/license/X3NNY/httpbin)
 
 * HTTPBin is a network tool provides request record service and custom route responses.
 
