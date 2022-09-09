@@ -1,0 +1,50 @@
+.mt10 {
+  margin-top: 10px;
+}
+
+.resetElStyle {
+  /*数字输入框*/
+  .el-input-number__decrease, .el-input-number__increase {
+    background: var(--el-fill-color)
+  }
+
+  // 复合输入框
+  .el-input-group__append, .el-input-group__prepend {
+    border: 1px solid var(--el-border-color-base);
+    border-right: none;
+  }
+
+  //  日期选择 el-date-picker
+  .el-picker-panel {
+    border: 1px solid var(--el-border-color-light);
+    background: var(--el-fill-color)
+  }
+
+
+  // 日期和时间范围
+  .el-date-editor .el-range-input {
+    background: var(--el-color-white)
+  }
+
+  .el-picker-panel__footer {
+    background: var(--el-bg-color)
+  }
+
+  // 时间选择
+  .el-time-panel__content {
+    .el-time-spinner__item:hover, .el-scrollbar__thumb:hover {
+      background: var(--el-color-black)
+    }
+  }
+
+  // 表格分页
+  .el-pagination.is-background .btn-next, .el-pagination.is-background .btn-prev, .el-pagination.is-background .el-pager li {
+    background: var(--el-fill-color)
+  }
+
+  // menu
+  .el-menu {
+    border-right: none;
+  }
+}
+
